@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "announcements-wp-client-side-solution",
+    "id": "e5f57dd4-424d-4ed4-8d6c-4f6924e763c9",
+    "version": "1.0.13.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/announcements-wp.sppkg"
+  }
+}
